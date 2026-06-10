@@ -1,0 +1,17 @@
+{
+  "name": "260610_rollup-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "ZENO",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-terser": "^1.0.0",
+    "rollup": "^4.61.1"
+  }
+}
